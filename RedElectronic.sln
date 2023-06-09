@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedElectronic.API", "RedElectionic.API\RedElectronic.API.csproj", "{CBC953B9-71AA-49B0-805A-B7F368293150}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedElectronic.Core", "RedElectronic.Core\RedElectronic.Core.csproj", "{B9B4438E-ED73-47A3-AAD3-327D98747B16}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedElectronic.Services", "RedElectronic.Services\RedElectronic.Services.csproj", "{2EBD1BCF-7D1B-4B15-A90C-4619DC57F180}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedElectronic.Infrastructure", "RedElectronic.Infrastructure\RedElectronic.Infrastructure.csproj", "{F3BEDB16-B67F-47F9-8C20-0EA312A2F437}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedElectronic.Util", "RedElectronic.Util\RedElectronic.Util.csproj", "{510C8295-F3E0-474C-9920-F5730E281E8E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedElectronic.SDK", "RedElectronic.SDK\RedElectronic.SDK.csproj", "{158520A4-8F54-477A-978A-9D5EB01D8CEA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedElectronic.External", "RedElectronic.External\RedElectronic.External.csproj", "{D9FEA652-6772-43D5-ABFC-0C18850952D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBC953B9-71AA-49B0-805A-B7F368293150}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBC953B9-71AA-49B0-805A-B7F368293150}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBC953B9-71AA-49B0-805A-B7F368293150}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBC953B9-71AA-49B0-805A-B7F368293150}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9B4438E-ED73-47A3-AAD3-327D98747B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B4438E-ED73-47A3-AAD3-327D98747B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B4438E-ED73-47A3-AAD3-327D98747B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B4438E-ED73-47A3-AAD3-327D98747B16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EBD1BCF-7D1B-4B15-A90C-4619DC57F180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EBD1BCF-7D1B-4B15-A90C-4619DC57F180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EBD1BCF-7D1B-4B15-A90C-4619DC57F180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EBD1BCF-7D1B-4B15-A90C-4619DC57F180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3BEDB16-B67F-47F9-8C20-0EA312A2F437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3BEDB16-B67F-47F9-8C20-0EA312A2F437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3BEDB16-B67F-47F9-8C20-0EA312A2F437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3BEDB16-B67F-47F9-8C20-0EA312A2F437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{510C8295-F3E0-474C-9920-F5730E281E8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{510C8295-F3E0-474C-9920-F5730E281E8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{510C8295-F3E0-474C-9920-F5730E281E8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{510C8295-F3E0-474C-9920-F5730E281E8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{158520A4-8F54-477A-978A-9D5EB01D8CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{158520A4-8F54-477A-978A-9D5EB01D8CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{158520A4-8F54-477A-978A-9D5EB01D8CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{158520A4-8F54-477A-978A-9D5EB01D8CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9FEA652-6772-43D5-ABFC-0C18850952D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9FEA652-6772-43D5-ABFC-0C18850952D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9FEA652-6772-43D5-ABFC-0C18850952D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9FEA652-6772-43D5-ABFC-0C18850952D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41221364-4B50-4B06-9AD1-AB8A0FCD4BF4}
+	EndGlobalSection
+EndGlobal
